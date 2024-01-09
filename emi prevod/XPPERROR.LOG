@@ -1,0 +1,33 @@
+
+------------------------------------------------------------------------------
+ERROR LOG of "C:\ALASKA\XPPW32\Projects\emi prevod\emi prevod.EXE" Date: 05.01.2024 10:44:46
+
+Xbase++ version     : Xbase++ (R) Version 1.90.355
+Operating system    : Windows Vista 06.02 Build 09200
+------------------------------------------------------------------------------
+oError:args         :
+          -> VALTYPE: C VALUE: ä·¬çáÔÖ?
+          -> VALTYPE: C VALUE: ¸óÐ¨ó Ö¦ ØáÖ¬á Ò
+          -> VALTYPE: N VALUE: 4
+          -> VALTYPE: N VALUE: 32
+oError:canDefault   : N
+oError:canRetry     : N
+oError:canSubstitute: Y
+oError:cargo        : NIL
+oError:description  : Parameter has a wrong data type
+oError:filename     : 
+oError:genCode      :          2
+oError:operation    : confirmBox
+oError:osCode       :          0
+oError:severity     :          2
+oError:subCode      :          3
+oError:subSystem    : BASE
+oError:thread       :          1
+oError:tries        :          0
+------------------------------------------------------------------------------
+CALLSTACK:
+------------------------------------------------------------------------------
+Called from ZATVORI(72)
+Called from (B)MAIN(308)
+Called from XBPPUSHBUTTON:HANDLEEVENT(964)
+Called from MAIN(330)
